@@ -1,0 +1,127 @@
+[
+  {
+    "id": "shen_estate_night",
+    "name": "จวนเสิ่นยามค่ำ",
+    "path": "assets/scenes/shen_estate_night.svg"
+  },
+  {
+    "id": "shen_study",
+    "name": "ห้องหนังสือ",
+    "path": "assets/scenes/shen_study.svg"
+  },
+  {
+    "id": "capital_gate",
+    "name": "ประตูเมืองหลวง",
+    "path": "assets/scenes/capital_gate.svg"
+  },
+  {
+    "id": "capital_street",
+    "name": "ถนนเมืองหลวง",
+    "path": "assets/scenes/capital_street.svg"
+  },
+  {
+    "id": "prince_residence",
+    "name": "จวนองค์ชาย",
+    "path": "assets/scenes/prince_residence.svg"
+  },
+  {
+    "id": "qin_hall",
+    "name": "ห้องรับรองพระชายา",
+    "path": "assets/scenes/qin_hall.svg"
+  },
+  {
+    "id": "flower_banquet",
+    "name": "งานเลี้ยงบุปผาแดง",
+    "path": "assets/scenes/flower_banquet.svg"
+  },
+  {
+    "id": "imperial_court",
+    "name": "ท้องพระโรง",
+    "path": "assets/scenes/imperial_court.svg"
+  },
+  {
+    "id": "royal_garden",
+    "name": "สวนหลวง",
+    "path": "assets/scenes/royal_garden.svg"
+  },
+  {
+    "id": "water_pavilion",
+    "name": "ศาลาริมน้ำ",
+    "path": "assets/scenes/water_pavilion.svg"
+  },
+  {
+    "id": "imperial_archive",
+    "name": "หอจดหมายเหตุ",
+    "path": "assets/scenes/imperial_archive.svg"
+  },
+  {
+    "id": "royal_treasury",
+    "name": "คลังหลวง",
+    "path": "assets/scenes/royal_treasury.svg"
+  },
+  {
+    "id": "document_room",
+    "name": "ห้องเก็บเอกสาร",
+    "path": "assets/scenes/document_room.svg"
+  },
+  {
+    "id": "inn",
+    "name": "โรงเตี๊ยม",
+    "path": "assets/scenes/inn.svg"
+  },
+  {
+    "id": "night_market",
+    "name": "ตลาดกลางคืน",
+    "path": "assets/scenes/night_market.svg"
+  },
+  {
+    "id": "frontier_camp",
+    "name": "ค่ายทหารชายแดน",
+    "path": "assets/scenes/frontier_camp.svg"
+  },
+  {
+    "id": "supply_road",
+    "name": "เส้นทางขนส่งเสบียง",
+    "path": "assets/scenes/supply_road.svg"
+  },
+  {
+    "id": "inquiry_hall",
+    "name": "ศาลสอบสวน",
+    "path": "assets/scenes/inquiry_hall.svg"
+  },
+  {
+    "id": "secret_chamber",
+    "name": "ห้องลับ",
+    "path": "assets/scenes/secret_chamber.svg"
+  },
+  {
+    "id": "winter_estate",
+    "name": "จวนเสิ่นฤดูหนาว",
+    "path": "assets/scenes/winter_estate.svg"
+  },
+  {
+    "id": "rain_palace",
+    "name": "พระราชวังคืนฝน",
+    "path": "assets/scenes/rain_palace.svg"
+  },
+  {
+    "id": "plum_garden",
+    "name": "สวนเหมยยามค่ำ",
+    "path": "assets/scenes/plum_garden.svg"
+  },
+  {
+    "id": "trial_hall",
+    "name": "ห้องพิจารณาคดี",
+    "path": "assets/scenes/trial_hall.svg"
+  },
+  {
+    "id": "final_court",
+    "name": "ท้องพระโรงวันตัดสิน",
+    "path": "assets/scenes/final_court.svg"
+  },
+  {
+    "id": "final_dawn",
+    "name": "รุ่งอรุณ",
+    "path": "assets/scenes/final_dawn.svg"
+  }
+]
